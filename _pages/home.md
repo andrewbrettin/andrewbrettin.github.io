@@ -2,7 +2,7 @@
 title: "Home"
 excerpt: "Andrew's homepage"
 sitemap: false
-permalink: /
+permalink: /.
 ---
 
 Hello!
