@@ -11,9 +11,3 @@ main:
     url: /posts/
   - title: "Contact"
     url: /contact/
-  <!---
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
-    --->
