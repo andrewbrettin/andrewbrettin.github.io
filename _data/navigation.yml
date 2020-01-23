@@ -1,9 +1,19 @@
 main:
+  - title: "Home"
+    url: /home/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Contact"
+    url: /contact/
+  <!---
   - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
+    --->
