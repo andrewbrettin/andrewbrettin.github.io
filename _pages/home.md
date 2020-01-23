@@ -1,3 +1,10 @@
+---
+title: "Home"
+excerpt: "Andrew's homepage"
+sitemap: false
+permalink: /
+---
+
 Hello!
 
 I am a first year PhD student in atmosphere-ocean science and mathematics at 
