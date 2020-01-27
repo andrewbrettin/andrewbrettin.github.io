@@ -1,6 +1,7 @@
 main:
   - title: "Home"
-    url: /
+    # url: / # Change to this once I figure out the whole homepage thing
+    url: /home/
   - title: "Research"
     url: /research/
   - title: "Teaching"
