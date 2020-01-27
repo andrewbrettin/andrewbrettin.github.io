@@ -9,4 +9,4 @@ Warren Weaver Hall
 Rm 908
 
 ### Email
-brettin *@* cims.nyu.edu
+brettin@cims.nyu.edu
