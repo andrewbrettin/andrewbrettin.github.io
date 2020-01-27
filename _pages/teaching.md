@@ -1,6 +1,6 @@
 ---
-title: "Teaching
 permalink: /teaching/
+title: "Teaching"
 ---
 
 To do
