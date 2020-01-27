@@ -3,8 +3,10 @@ permalink: /contact/
 title: "Contact"
 ---
 
+### Address
 Warren Weaver Hall
 251 Mercer St
 Rm 908
 
-Email: brettin at cims.nyu.edu
+### Email
+brettin*@*cims.nyu.edu
