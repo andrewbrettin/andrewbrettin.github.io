@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /home/
 title: "Home"
 excerpt: "Andrew's homepage"
 sitemap: false
