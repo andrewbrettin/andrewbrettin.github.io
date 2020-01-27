@@ -70,7 +70,7 @@ author:
   #    url: "https://twitter.com/"
     - label: "Email"
       icon: "far fa-envelope"
-      url: "mailto:brettin at cims"
+      url: "mailto:brettin@cims.nyu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
