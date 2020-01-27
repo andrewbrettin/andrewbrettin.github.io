@@ -74,10 +74,10 @@ author:
       url: "mailto:brettin@cims.nyu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/andrewbrettin"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
-      url: "https://linkedin.com/"
+      url: "https://linkedin.com/andrewbrettin"
 
 footer:
   links:
