@@ -1,3 +1,3 @@
 To do
 
-![filename](assets/files/doc.txt)
+![filename](/assets/files/doc.txt)
