@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Brettin website"
+title                    : "Andrew Brettin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andrew Brettin"
@@ -109,9 +109,9 @@ author:
 #   location         : "Somewhere"
   email            : brettin@cims.nyu.edu
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:brettin@cims.nyu.edu"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:brettin@cims.nyu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andrewbrettin"
