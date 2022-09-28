@@ -80,7 +80,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "@andrewbrettin"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -91,7 +91,11 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - "https://twitter.com/andrewbrettin"
+    - "https://github.com/andrewbrettin"
+    - "https://orcid.org/0000-0002-7664-6612"
+    - "https://linkedin.com/in/andrewbrettin"
 
 # Analytics
 analytics:
@@ -109,9 +113,6 @@ author:
 #   location         : "Somewhere"
   email            : brettin@cims.nyu.edu
   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:brettin@cims.nyu.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andrewbrettin"
@@ -133,7 +134,7 @@ footer:
       url: "https://orcid.org/0000-0002-7664-6612"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
-      url: "https://linkedin.com/andrewbrettin"
+      url: "https://linkedin.com/in/andrewbrettin"
 
 # Reading Files
 include:
