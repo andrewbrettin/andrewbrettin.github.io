@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Home"
-    url: /
   - title: "CV"
     url: /assets/files/cv.pdf
   - title: "Notes"
