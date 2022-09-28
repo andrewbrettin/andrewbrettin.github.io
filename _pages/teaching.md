@@ -4,5 +4,5 @@ title: "Teaching"
 ---
 
 ## Numerical Analysis Fall 2022
-* Office Hours: Wed 2:30-3:30pm
+* Office Hours: Wednesdays 2:30-3:30pm, WWH 930
 * [Course GitHub](https://github.com/andrewbrettin/numerical_analysis_course/tree/main)
