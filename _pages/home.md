@@ -1,5 +1,6 @@
 ---
 permalink: /
+hidden: true
 title: "Home"
 ---
 
