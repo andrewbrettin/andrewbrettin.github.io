@@ -5,15 +5,15 @@ permalink: /
 classes: wide
 feature_row:
   - image_path: /assets/images/variability.png
-<!--     title: "Non-tidal variability" -->
+    title: ""
     excerpt: "Timeseries of sea level observations at Battery Park, New York, NY, with computed trends + climatology."
     alt: "variability"
   - image_path: /assets/images/ishigaki.png
-<!--     title: "Changing sea level variability" -->
+    title: ""
     excerpt: "JJA sea level timeseries and quantile trends at Ishigaki, Japan, with comparison of distributions between first 10 years and last 10 years of observational record."
     alt: "changes"
   - image_path: /assets/images/cross_shelf_return_levels.png
-<!--     title: "Return levels" -->
+    title: ""
     excerpt: "Cross-shelf sea level anomaly return levels off the eastern coast of South America in CM2.6 simulations."
     alt: "extremes"
 ---
