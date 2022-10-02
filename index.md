@@ -1,7 +1,8 @@
 ---
 layout: single
-permalink: /
 title: "Home"
+permalink: /
+classes: wide
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
