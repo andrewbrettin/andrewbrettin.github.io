@@ -29,4 +29,5 @@ and am supported by the [VoLo Foundation](https://volofoundation.org/project/new
 
 I'm a Wisconsinite, a marathoner, an amateur piano player, and an avid Mets supporter (though perhaps not as much of a baseball fanatic as my advisor)!
 
+## Gallery
 {% include feature_row %}
