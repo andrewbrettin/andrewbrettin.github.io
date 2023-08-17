@@ -16,4 +16,4 @@ Other recommended materials, many of which were sources for these notes:
 * Fluids: [Cerfon's lecture notes](https://www.math.nyu.edu/~cerfon/fluids_grad.html)
 * PDE: [Tabak's lecture notes](https://math.nyu.edu/~tabak/PDEs.html)
 * Climate change: Marshall and Plumb Atmosphere Ocean and Climate Dynamics, chapters 1-4.
-* Ocean/Atmosphere: Vallis "Essentials" - smaller, more consise version of the big Vallis book.
+* Ocean/Atmosphere: Vallis "Essentials" - smaller, more concise version of the big Vallis book.
