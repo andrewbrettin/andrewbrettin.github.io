@@ -20,7 +20,9 @@ feature_row:
 
 I am a fifth year PhD student at the [Center for Atmosphere-Ocean Science](https://caos.cims.nyu.edu/dynamic/) (CAOS) 
 at the [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/) at New York University.
-My advisor is [Laure Zanna](https://laurezanna.github.io). My research focuses on understanding sea level variability,
+My advisor is [Laure Zanna](https://laurezanna.github.io). 
+
+My research focuses on understanding sea level variability,
 using data-driven methods at the intersection of probability, classical statistics, 
 computing, and machine learning. I'm an affiliate of [M2LInES](https://m2lines.github.io/)
 and am supported by the [VoLo Foundation](https://volofoundation.org/project/new-york-university-nyu/).
