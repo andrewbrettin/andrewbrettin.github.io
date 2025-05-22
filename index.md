@@ -4,18 +4,18 @@ title: "Home"
 permalink: /
 classes: wide
 feature_row:
-  - image_path: /assets/images/variability.png
+  - image_path: /assets/images/uq_predictions.png
     title: ""
-    excerpt: "Timeseries of sea level observations at Battery Park, New York, NY, with computed trends + climatology."
-    alt: "variability"
-  - image_path: /assets/images/ishigaki.png
+    excerpt: "Probabilistic forecasts of CESM2 dynamic sea level anomalies ."
+    alt: "predicted distributions"
+  - image_path: /assets/images/koopman_diagram.pdf
     title: ""
-    excerpt: "JJA sea level timeseries and quantile trends at Ishigaki, Japan, with comparison of distributions between first 10 years and last 10 years of observational record."
-    alt: "changes"
-  - image_path: /assets/images/cross_shelf_return_levels.png
+    excerpt: "Autoencoder architecture based on Koopman operator theory for obtaining an improved dynamical propagator to forecast regional sea surface heights."
+    alt: "koopman autoencoder"
+  - image_path: /assets/images/timeseries_pred_presentation.pdf
     title: ""
-    excerpt: "Cross-shelf sea level anomaly return levels off the eastern coast of South America in CM2.6 simulations."
-    alt: "extremes"
+    excerpt: "Predicted tide gauge nontidal residuals at Stone Harbor, NJ using quantile regression neural networks."
+    alt: "quantile regression"
 ---
 
 I am a graduating PhD student at the [Center for Atmosphere-Ocean Science](https://caos.cims.nyu.edu/dynamic/) (CAOS) 
@@ -32,5 +32,5 @@ Welcome to my website!
 
 <!-- I'm a Wisconsinite, a marathoner, an amateur piano player, and an avid Mets supporter (though perhaps not as much of a baseball fanatic as my advisor)! -->
 
-<!-- ## Gallery
-{% include feature_row %} -->
+## Gallery
+{% include feature_row %}
