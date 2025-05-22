@@ -6,13 +6,13 @@ classes: wide
 feature_row:
   - image_path: /assets/images/uq_predictions.png
     title: ""
-    excerpt: "Probabilistic forecasts of CESM2 dynamic sea level anomalies ."
+    excerpt: "Probabilistic forecasts of CESM2 dynamic sea level anomalies."
     alt: "predicted distributions"
-  - image_path: /assets/images/koopman_diagram.pdf
+  - image_path: /assets/images/koopman_diagram.png
     title: ""
     excerpt: "Autoencoder architecture based on Koopman operator theory for obtaining an improved dynamical propagator to forecast regional sea surface heights."
     alt: "koopman autoencoder"
-  - image_path: /assets/images/timeseries_pred_presentation.pdf
+  - image_path: /assets/images/timeseries_pred.png
     title: ""
     excerpt: "Predicted tide gauge nontidal residuals at Stone Harbor, NJ using quantile regression neural networks."
     alt: "quantile regression"
