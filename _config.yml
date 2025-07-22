@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air"
 # Site Settings
 locale                   : "en-US"
 title                    : "Andrew Brettin"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andrew Brettin"
 description              : "None"
@@ -78,6 +78,9 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+head_scripts:
+  - https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
+
 # Social Sharing
 twitter:
   username               : 
@@ -117,7 +120,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andrewbrettin"
     - label: "Google Scholar"
-      icon: "fab fa-brands fa-google-scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=s8PjLuEAAAAJ&hl=en&oi=ao"
     - label: "LinkedIn"
       icon: "fab fa-brands fa-linkedin"
@@ -133,7 +136,7 @@ footer:
     #   icon: "fab fa-brands fa-twitter"
     #   url: "https://twitter.com/andrewbrettin"
     - label: "Google Scholar"
-      icon: "fab fa-brands fa-google-scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=s8PjLuEAAAAJ&hl=en&oi=ao"
     - label: "ORCID"
       icon: "fab fa-brands fa-orcid"
