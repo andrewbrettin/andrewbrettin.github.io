@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
-  <symbol id="icon-google-scholar" viewBox="0 0 512 512">
-    <!-- Google Scholar SVG Path -->
-    <path d="M256 0C114.624 0 0 114.624 0 256s114.624 256 256 256 256-114.624 256-256S397.376 0 256 0zm0 472c-119.296 0-216-96.704-216-216S136.704 40 256 40s216 96.704 216 216-96.704 216-216 216z"/>
-    <!-- Simplified placeholder; for actual icon use a real SVG from Google Scholar icon set -->
-  </symbol>
-</svg>
