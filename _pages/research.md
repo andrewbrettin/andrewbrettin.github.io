@@ -4,7 +4,7 @@ title: "Research"
 classes: wide
 ---
 
-## Quantile regression neural networks [[Article](https://www.proquest.com/docview/3223742845?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)] |  [[Code](https://github.com/andrewbrettin/quantile_ml)]
+## Quantile regression neural networks | [Article](https://www.proquest.com/docview/3223742845?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) • [Code](https://github.com/andrewbrettin/quantile_ml)
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin: 2rem 0; align-items: flex-start;">
   <!-- Left: Image with caption -->
   <div style="flex: 1; min-width: 200px;">
@@ -19,7 +19,7 @@ classes: wide
   </div>
 </div>
 
-## Learning Propagators for Sea Surface Height Forecasts Using Koopman Autoencoders [[Article](https://doi.org/10.1029/2024GL112835)] | [[Code](https://github.com/andrewbrettin/koopman_autoencoders_ssh_prediction)]
+## Learning Propagators for Sea Surface Height Forecasts Using Koopman Autoencoders | [[Article](https://doi.org/10.1029/2024GL112835)] • [[Code](https://github.com/andrewbrettin/koopman_autoencoders_ssh_prediction)]
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin: 2rem 0; align-items: flex-start;">
   <!-- Right: Image with caption -->
   <div style="flex: 2; min-width: 200px;">
@@ -34,7 +34,7 @@ classes: wide
   </div>
 </div>
 
-## Identifying sources of sea level predictability using uncertainty permitting machine learning with explainable AI [[Article](https://doi.org/10.1175/AIES-D-25-0014.1)] | [[Code](https://github.com/andrewbrettin/zos_predictability_aies)]
+## Identifying sources of sea level predictability using uncertainty permitting machine learning with explainable AI |  [[Article](https://doi.org/10.1175/AIES-D-25-0014.1)] • [[Code](https://github.com/andrewbrettin/zos_predictability_aies)]
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin: 2rem 0; align-items: flex-start;">
   <!-- Left: Image with caption -->
   <div style="flex: 1; min-width: 200px;">
@@ -50,7 +50,7 @@ classes: wide
 </div>
 
 
-## Exploring the nonstationarity of sea level probability distributions [[Article](https://doi.org/10.1017/eds.2023.10)]
+## Exploring the nonstationarity of sea level probability distributions | [[Article](https://doi.org/10.1017/eds.2023.10)]
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin: 2rem 0; align-items: flex-start;">
   <!-- Left: Image with caption -->
   <div style="flex: 2; min-width: 200px;">

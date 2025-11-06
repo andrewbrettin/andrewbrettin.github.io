@@ -121,8 +121,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andrewbrettin"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=s8PjLuEAAAAJ&hl=en&oi=ao"
+    - label: "ORCID"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0002-7664-6612"
     - label: "LinkedIn"
       icon: "fab fa-brands fa-linkedin"
       url: "https://linkedin.com/in/andrewbrettin"
@@ -137,7 +140,7 @@ footer:
     #   icon: "fab fa-brands fa-twitter"
     #   url: "https://twitter.com/andrewbrettin"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=s8PjLuEAAAAJ&hl=en&oi=ao"
     - label: "ORCID"
       icon: "fab fa-brands fa-orcid"
@@ -145,6 +148,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-brands fa-linkedin"
       url: "https://linkedin.com/in/andrewbrettin"
+      class: "footer-linkedin"
 
 # Reading Files
 include:
