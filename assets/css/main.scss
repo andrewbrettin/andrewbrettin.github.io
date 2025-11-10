@@ -7,3 +7,19 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.footer-linkedin .fa-linkedin {
+  color: #000 !important;
+}
+
+.footer-linkedin .fa-linkedin:hover {
+  color: #555 !important;
+}
+
+.site-footer a .fa-linkedin {
+  color: #000 !important;       /* Black color */
+}
+
+.site-footer a .fa-linkedin:hover {
+  color: #555 !important;       /* Slightly lighter on hover */
+}
