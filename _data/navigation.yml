@@ -2,11 +2,11 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "CV"
+    url: /assets/files/cv.pdf
   - title: "Teaching"
     url: /teaching/
   - title: "Notes"
     url: /notes/
-  - title: "CV"
-    url: /assets/files/cv.pdf
   - title: "Contact"
     url: /contact/
