@@ -8,7 +8,9 @@ classes: wide
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin: 2rem 0; align-items: flex-start;">
   <!-- Left: Image with caption -->
   <div style="flex: 1; min-width: 200px;">
-    {% Timeseries of predicted distributions of sea level nontidal residuals for a tide gauge at Stone Harbor, New Jersey (39.1°N, 74.8°W) from October 1–November 15, 2020 by our quantile regression neural network. The target timeseries is given by the black line. Gray shading indicates time periods of impacts form Hurricane Delta (October 11–12) and Tropical Storm Zeta (October 29–31), respectively.*"
+    {% include figure
+      image_path="/assets/images/timeseries_pred.png"
+      caption="*Timeseries of predicted distributions of sea level nontidal residuals for a tide gauge at Stone Harbor, New Jersey (39.1°N, 74.8°W) from October 1–November 15, 2020 by our quantile regression neural network. The target timeseries is given by the black line. Gray shading indicates time periods of impacts form Hurricane Delta (October 11–12) and Tropical Storm Zeta (October 29–31), respectively.*"
     %}
   </div>
   <!-- Right: Text -->
