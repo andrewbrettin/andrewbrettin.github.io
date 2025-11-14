@@ -4,17 +4,9 @@ search: false
 ---
 
 @charset "utf-8";
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.footer-linkedin .fa-linkedin {
-  color: #000 !important;
-}
-
-.footer-linkedin .fa-linkedin:hover {
-  color: #555 !important;
-}
 
 .site-footer a .fa-linkedin {
   color: #000 !important;       /* Black color */
@@ -23,3 +15,51 @@ search: false
 .site-footer a .fa-linkedin:hover {
   color: #555 !important;       /* Slightly lighter on hover */
 }
+
+
+
+// .author__avatar {
+//   max-width: none !important;
+//   width: 200px !important;   /* change to the size you want */
+//   height: 200px !important;
+//   display: block !important;
+// }
+
+// .author__avatar img {
+//   width: 100% !important;
+//   height: 100% !important;
+//   object-fit: cover;         /* keeps the crop sensible */
+//   border-radius: 50% !important;
+//   display: block !important;
+// }
+
+// "NUCLEAR OPTION"
+.page__hero .author__avatar img,
+.sidebar .author__avatar img,
+.author__avatar img {
+  width: 120px !important;
+  height: 120px !important;
+  max-width: none !important;
+}
+
+// .page__hero .author__avatar img,
+// .sidebar .author__avatar img,
+// .author__avatar img {
+//   width: 200px !important;
+//   height: 200px !important;
+//   max-width: none !important;
+// }
+
+// .author__avatar img {
+//   filter: none !important;
+//   -webkit-filter: none !important;
+//   transition: none !important;
+//   opacity: 1 !important;
+// }
+
+// /* Prevent grayscale-on-hover effect */
+// .author__avatar:hover img {
+//   filter: none !important;
+//   -webkit-filter: none !important;
+//   opacity: 1 !important;
+// }

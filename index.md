@@ -20,19 +20,15 @@ feature_row:
     alt: "quantile regression"
 ---
 
-I am a final year PhD student at the [Center for Atmosphere-Ocean Science](https://caos.cims.nyu.edu/dynamic/) (CAOS) 
-at the [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/) at New York University.
-My advisor is [Laure Zanna](https://zanna-researchteam.github.io/author/laure-zanna/).
+I am a climate data scientist specializing in machine learning and sea level variability.
 
-My research focuses on understanding sea level variability on timescales ranging from the hourly to the seasonal. In particular, I seek to identify sources of predictability and quantify uncertainties associated with sea level variability using data-driven techniques
-(especially those which incorporate dynamical representations or permit probabilistic interpretation).
+I recently completed my PhD in [Atmosphere-Ocean Science & Mathematics](https://caos.cims.nyu.edu) from the [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/) at New York University. I was advised by [Laure Zanna](https://zanna-researchteam.github.io/author/laure-zanna/) and am affiliated with [M<sup>2</sup>LInES](https://m2lines.github.io/). My [thesis](https://www.proquest.com/docview/3223742845/4B09895C42FC472CPQ?sourcetype=Dissertations%20&%20Theses) focused on developing probabilistic and dynamics-informed machine learning techniques for analyzing sea level variability. Prior to NYU, I earned a B.S. in Mathematics from the University of Minnesota, where I was involved with the [Mathematics and Climate Research Network](https://sites.google.com/view/math-climate/home).
 
-I'm an affiliate of [M2LInES](https://m2lines.github.io/)
-and am supported by the [VoLo Foundation](https://volofoundation.org/project/new-york-university-nyu/).
+Broadly, I am interested in quantifying risk, predictability, and decision-relevant uncertainty from the climate system, through [probabilistic modeling](https://doi.org/10.1017/eds.2023.10) and [explainable AI](https://doi.org/10.1175/AIES-D-25-0014.1), as well as through the construction of [empircal-dynamical machine learning models](https://doi.org/10.1029/2024GL112835) to improve forecasts. 
 
-Welcome to my website!
+<!-- Broadly, I am interested about quantifying risk, predictability, and decision-relevant uncertainty from the climate system. My work spans probabilistic modeling, explainable and physics-informed machine learning, and  -->
 
-<!-- I'm a Wisconsinite, a marathoner, an amateur piano player, and an avid Mets supporter (though perhaps not as much of a baseball fanatic as my advisor)! -->
+Outside of my work, I'm a Wisconsinite, an amateur marathoner, an amateur piano player, and a frequent consumer of spicy food. Welcome to my website!
 
 <!-- ## Gallery
 {% include feature_row %} -->
