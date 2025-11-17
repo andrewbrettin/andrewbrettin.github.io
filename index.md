@@ -26,9 +26,13 @@ I recently completed my PhD in [Atmosphere-Ocean Science & Mathematics](https://
 
 Broadly, I am interested in quantifying risk, predictability, and decision-relevant uncertainty from the climate system, through [probabilistic modeling](https://doi.org/10.1017/eds.2023.10) and [explainable AI](https://doi.org/10.1175/AIES-D-25-0014.1), as well as through the construction of [empircal-dynamical machine learning models](https://doi.org/10.1029/2024GL112835) to improve forecasts. 
 
+<!-- Broadly, I am interested in quantifying risk, variability, and decision-relevant uncertainty from the climate system using data-driven analysis. I address these questions by developing empirical dynamical machine learning emulators to improve forecasts and probabilistic, interpretable models that capture both the statistical structure of climate variability and the underlying physical processes. -->
+
+<!-- My approaches to answering this include the construction of empirical-dynamical machine learning emulators as well as through probabilistic modeling and explainable AI. -->
+
 <!-- Broadly, I am interested about quantifying risk, predictability, and decision-relevant uncertainty from the climate system. My work spans probabilistic modeling, explainable and physics-informed machine learning, and  -->
 
-Outside of my work, I'm a Wisconsinite, an amateur marathoner, an amateur piano player, and a frequent consumer of spicy food. Welcome to my website!
+Outside of my work, I'm a Wisconsinite, an amateur marathoner, an amateur piano player, and an avid consumer of spicy food. Welcome to my website!
 
 <!-- ## Gallery
 {% include feature_row %} -->
