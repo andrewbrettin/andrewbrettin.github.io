@@ -41,7 +41,7 @@ I approach this through probabilistic modeling and explainable AI, as well as th
 
 <!-- Broadly, I am interested about quantifying risk, predictability, and decision-relevant uncertainty from the climate system. My work spans probabilistic modeling, explainable and physics-informed machine learning, and  -->
 
-Outside of my work, I'm a Wisconsinite, a amateur marathoner, an amateur piano player, and an avid consumer of spicy food. Welcome to my website!
+Outside of my work, I'm a Wisconsinite, an amateur marathoner, an amateur piano player, and an avid consumer of spicy food. Welcome to my website!
 
 <!-- ## Gallery
 {% include feature_row %} -->
