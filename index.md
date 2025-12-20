@@ -20,7 +20,7 @@ feature_row:
     alt: "quantile regression"
 ---
 
-I am a climate data scientist specializing in probabilistic machine learning and sea level.
+I am a **climate data scientist** specializing in probabilistic machine learning applied to sea level.
 
 I recently completed my PhD in [Atmosphere-Ocean Science & Mathematics](https://caos.cims.nyu.edu) from the [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/) at New York University. I was advised by [Laure Zanna](https://zanna-researchteam.github.io/author/laure-zanna/) and am affiliated with [M<sup>2</sup>LInES](https://m2lines.github.io/). My [thesis](https://www.proquest.com/docview/3223742845/4B09895C42FC472CPQ?sourcetype=Dissertations%20&%20Theses) focused on developing probabilistic and dynamics-informed machine learning techniques for analyzing sea level variability. Prior to NYU, I earned a B.S. in Mathematics from the University of Minnesota, where I was involved with the [Mathematics and Climate Research Network](https://sites.google.com/view/math-climate/home).
 
